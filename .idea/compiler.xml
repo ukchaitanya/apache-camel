@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="camel-microservice-a" target="11" />
+      <module name="camel-microservice-a" target="1.8" />
       <module name="camel-microservice-b" target="1.8" />
     </bytecodeTargetLevel>
   </component>

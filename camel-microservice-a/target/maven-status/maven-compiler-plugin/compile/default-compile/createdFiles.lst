@@ -1,3 +1,4 @@
+com/example/microservices/camelmicroservicea/routes/c/ActiveMQSender.class
 com/example/microservices/camelmicroservicea/routes/a/MyTimerRouter.class
 com/example/microservices/camelmicroservicea/routes/a/SimpleLoggingProcessor.class
 com/example/microservices/camelmicroservicea/routes/b/MyFileRouter.class
